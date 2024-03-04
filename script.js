@@ -9,8 +9,8 @@ const newsData = [
 ];
 
 const videosData = [
-    { title: 'Video 1', url: 'https://www.youtube.com/watch?v=video1' },
-    { title: 'Video 2', url: 'https://www.youtube.com/watch?v=video2' }
+    { title: 'Gajab IPL ke Ajab Rang', url: 'https://www.youtube.com/watch?v=6B-PY38MwtQ' },
+    { title: 'A Tribute to MS Dhoni', url: 'https://www.youtube.com/watch?v=L1ubzGYQYFg' }
 ];
 
 const rankingsData = [
