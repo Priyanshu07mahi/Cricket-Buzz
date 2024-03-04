@@ -5,7 +5,7 @@ const matchesData = [
 
 const newsData = [
     { title: 'News 1', content: 'MS Dhoni drops cryptic new season-new role post as CSK captain fuels speculations about his future ahead of IPL 2024', url: 'https://www.timesnownews.com/sports/cricket/ms-dhoni-hints-at-new-role-in-ipl-2024-with-rare-social-media-post-article-108209525' },
-    { title: 'News 2', content: 'Pat Cummins to lead Sunrisers Hyderabad in IPL 2024' }
+    { title: 'News 2', content: 'Pat Cummins to lead Sunrisers Hyderabad in IPL 2024', url:'https://www.thehindu.com/sport/cricket/indian-premier-league-2024-sunrisers-hyderabad-names-pat-cummins-as-captain/article67912726.ece' }
 ];
 
 const videosData = [
